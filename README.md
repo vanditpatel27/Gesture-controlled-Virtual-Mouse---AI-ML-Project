@@ -70,7 +70,7 @@ We believe that this project not only enhances the accessibility and convenience
 
 ## PPT for this project : 
 
-(https://github.com/user-attachments/files/16329721/Artificial.Intelligence.Project.1.pptx)
+[Artificial Intelligence Project (1).pptx](https://github.com/user-attachments/files/16329786/Artificial.Intelligence.Project.1.pptx)
 
 
 ## Image:
