@@ -68,6 +68,10 @@ The Gesture-Controlled Virtual Mouse is an innovative tool that bridges the gap 
 We believe that this project not only enhances the accessibility and convenience of computer interactions but also paves the way for future advancements in human-computer interaction. Whether you're a developer looking to explore the potential of gesture control, an enthusiast interested in innovative technology, or someone looking to improve accessibility, this virtual mouse offers a versatile and engaging experience.
 
 
+## PPT for this project : 
+
+
+[Artificial Intelligence Project (1).pptx](https://github.com/user-attachments/files/16329721/Artificial.Intelligence.Project.1.pptx)
 
 
 
